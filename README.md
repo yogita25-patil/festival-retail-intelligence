@@ -73,8 +73,4 @@ The analysis can help retail decision-makers:
 
 ## Disclaimer
 
-This project is intended for learning and portfolio demonstration. Any dataset used should be shared only when permitted by its applicable license or usage terms.
-
-## Author
-
-Data Science and Analytics Portfolio Project
+This project is intended for learning and portfolio demonstration.
